@@ -1,0 +1,14 @@
+{
+    "window.title": "${dirty}MFE Store UI",
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#8d07ab",
+      "titleBar.activeForeground": "#FBFAF9",
+      "titleBar.inactiveBackground": "#c38ccbec",
+      "titleBar.inactiveForeground": "#020915",
+    },
+    "tailwindCSS.classAttributes":[
+      "class",
+      "className",
+      "cls"
+    ]
+  }
